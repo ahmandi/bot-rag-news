@@ -108,5 +108,5 @@ python main.py
 
 ## 🤖 Desenvolvido por
 
-Guilda **Tadala Filhos 💧** — Ragnarok LATAM  
+Guilda **TDL Filhos** — Ragnarok LATAM  
 Contribuições são bem-vindas! ✨
